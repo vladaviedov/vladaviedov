@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vladaviedov/vladaviedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img align="center" style='height: 180px' src="https://github-readme-stats.vercel.app/api?username=vladaviedov&theme=gotham&show_icons=true&layout=compact" />
+  <img align="center" style='height: 180px' src="https://github-readme-stats.vercel.app/api/top-langs?username=vladaviedov&theme=gotham&show_icons=true&layout=compact&langs_count=6" />
+</div>
