@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <div>
   <img align="center" style='height: 150px' src="https://github-readme-stats.vercel.app/api?username=vladaviedov&theme=gotham&show_icons=true&layout=compact" />
-  <img align="center" style='height: 150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=vladaviedov&theme=gotham&show_icons=true&layout=compact&langs_count=6" />
+  <img align="center" src="https://raw.githubusercontent.com/vladaviedov/.stats/master/generated.svg" />
 </div>
